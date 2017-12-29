@@ -1,3 +1,12 @@
+/**************************************************************
+   xiaomi_yi_rc_switch is for the ESP8266/Arduino platform
+   it contains the WifiManger from: AlexT https://github.com/tzapu (thx)
+   You can controll an Xiaomi Yi with an radio controlled receiver.
+   You can switch between Foto and Video Mode during flight (drive ...)
+   Licensed under MIT license
+ **************************************************************/
+
+
 #include <ESP8266WiFi.h>          //https://github.com/esp8266/Arduino
 
 //needed for library
