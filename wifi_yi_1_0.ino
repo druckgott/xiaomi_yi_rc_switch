@@ -3,6 +3,7 @@
    it contains the WifiManger from: AlexT https://github.com/tzapu (thx)
    You can controll an Xiaomi Yi with an radio controlled receiver.
    You can switch between Foto and Video Mode during flight (drive ...)
+   https://youtu.be/xFy65uZmHA8
    Licensed under MIT license
  **************************************************************/
 
