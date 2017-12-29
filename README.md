@@ -11,3 +11,6 @@ https://github.com/tzapu/WiFiManager/blob/master/LICENSE
 
 You also need ESP8266 Lib for Arduino IDE, to upload the code.
 https://github.com/esp8266/Arduino
+
+Video:
+https://youtu.be/xFy65uZmHA8
